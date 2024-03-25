@@ -17,7 +17,7 @@ public class ArrayListTest {
 		
 		
 			System.out.println(listOfCustomers1.size());	
-		
+			System.out.println("Just Testing purpose...");
 	}
 
 }
